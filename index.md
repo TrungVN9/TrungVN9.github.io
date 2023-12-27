@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Trung N Vong's Home Page
 layout: home
 ---
 
